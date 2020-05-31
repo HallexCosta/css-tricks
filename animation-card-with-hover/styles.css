@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  border-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  font-family: Roboto, sans-serif;
+}
+
+.card {
+  padding: 20px;
+  width: 350px;
+  box-shadow: 0 0 5px 0 #e2e2e2;
+  position: relative;
+  cursor: pointer;
+}
+
+.card:after,
+.card:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  left: 0;
+  transition: transform .3s ease-in-out;
+}
+
+.card:before {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  transform: scaleY(0);
+}
+
+.card:after {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  transform: scaleX(0);
+}
+
+.card:hover:before {
+  transform: scaleY(1);
+}
+
+.card:hover:after {
+  transform: scaleX(1);
+}
