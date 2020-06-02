@@ -8,6 +8,7 @@
 ## Images and Links
 
 **[Animation Card with  Hover](https://animation-card-hover.netlify.app/)**
+<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8addae1e-08f2-489f-9c2e-9164a0d47615/deploy-status)](https://app.netlify.com/sites/animation-card-hover/deploys)
 <img
     alt="Animation Card with  Hover"
@@ -16,6 +17,7 @@
 -------------------------------------------------------------------------------------------
 
 **[Button Expand on Hover](https://button-expand-hover.netlify.app/)**
+<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5dc9090d-d211-4fd2-b482-4eeea84cce11/deploy-status)](https://app.netlify.com/sites/button-expand-hover/deploys)
 <img
     alt="Button Expand on Hove"
@@ -24,6 +26,7 @@
 -------------------------------------------------------------------------------------------
 
 **[Rotating Border Animation Effects](https://rotating-border-animation.netlify.app/)**
+<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1c21cb5b-cb5b-4378-b090-4372ba6513d0/deploy-status)](https://app.netlify.com/sites/rotating-border-animation/deploys)
 <img
     alt="Rotating Border Animation Effects"
